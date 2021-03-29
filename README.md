@@ -1,5 +1,5 @@
-# ⛩️Hi I'm Mateusz Buturla
-I'm creative Junior Full-Stack Developer.
+# Hi I'm Mateusz Buturla
+I'm creative Junior Front-End Developer.
 
 ## My tech stack
 
@@ -7,7 +7,6 @@ I'm creative Junior Full-Stack Developer.
 - Type Script
 - React (with hooks)
 - Redux
-- GSAP
 - Node JS
 - Mongo DB
 - Nest JS
