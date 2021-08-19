@@ -18,7 +18,7 @@ My name is Mateusz Buturla and I'm a Junior Front End Developer. I spend most of
 ### 🖥️ I'm currently working on
 
 <a href="https://github.com/mateuszbuturla/nana-rhythm-game">
-<img alt="Nana rhythm game" src="https://github-readme-stats.vercel.app/api/pin/?username=mateuszbuturla&repo=nana-rhythm-game&theme=darcula" /></a>
+<img alt="Nana rhythm game" src="https://github-readme-stats.vercel.app/api/pin/?username=mateuszbuturla&repo=rpg&theme=darcula" /></a>
 
 ### 🥇 Main Technologies:
 
