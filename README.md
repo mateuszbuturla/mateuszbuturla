@@ -1,6 +1,6 @@
 # Hi, I'm Mateusz <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-My name is Mateusz Buturla and I'm a Junior Front End Developer. I spend most of my time coding, learning something new and developing passion.
+My name is Mateusz Buturla and I'm a Full-Stack Developer. I spend most of my time coding, learning something new and developing passion.
 
 📫 Contact me!
 
