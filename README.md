@@ -9,7 +9,6 @@ My name is Mateusz Buturla and I'm a Full-Stack Developer. I spend most of my ti
  <img align="right" alt="GIF" src="https://avatars.githubusercontent.com/u/52802446?v=4" width="370" height="370" />
 
 - ✍ You can find my projects in my [portfolio](https://mateuszbuturla.com) 📁
-- 🔭 I’m currently a student 🎓
 - 🌱 I’m currently learning Type Script 📚
 - 👯 I’m looking to collaborate on React.js and Nest.js
 - 🤔 I’m looking for help with better coding 💪
