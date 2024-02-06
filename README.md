@@ -1,23 +1,8 @@
 # Hi, I'm Mateusz <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-My name is Mateusz Buturla and I'm a Full-Stack Developer. I spend most of my time coding, learning something new and developing passion.
-
 📫 Contact me!
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Mateusz_Buturla-0A66C2?style=flat&labelColor=0A66C2&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mateusz-buturla-4b22a6192/) [![Mail Badge](https://img.shields.io/badge/-2002mateuszbuturla-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:2002mateuszbuturla@gmail.com)
-
- <img align="right" alt="GIF" src="https://avatars.githubusercontent.com/u/52802446?v=4" width="370" height="370" />
-
-- ✍ You can find my projects in my [portfolio](https://mateuszbuturla.com) 📁
-- 🌱 I’m currently learning Type Script 📚
-- 👯 I’m looking to collaborate on React.js and Nest.js
-- 🤔 I’m looking for help with better coding 💪
-- 💬 Ask me about anything 🙋‍♂️
-
-### 🖥️ I'm currently working on
-
-<a href="https://github.com/mateuszbuturla/RPG">
-<img alt="Nana rhythm game" src="https://github-readme-stats.vercel.app/api/pin/?username=mateuszbuturla&repo=rpg&theme=darcula" /></a>
 
 ### 🥇 Main Technologies:
 
